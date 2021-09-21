@@ -1,0 +1,13 @@
+Orkhan Elyasov
+
+Proqramlaşdırma nədir?
+Proqramlasdirma her hansi bir meqsede catmaq ucun lazim olan emrleri komputer diline cevirme prosesidir.
+
+Software nədir və kompüterdə necə emal olunur?
+Software – komputerin ardicil yerine yetireceyi telimatlar ve emrler toplusudur
+Komputere biz lazim olan telimatlari ve emrleri BINARY CODE vasiteri ile gonderirik CPU dan kecen emrleri komputer ardicil yerine yetirir.
+
+Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+Insan diline daha anlasiqli gelmeyine uygun veya tarixine uygun qruplasdirmaq daha meqsede uygundur
+
+
