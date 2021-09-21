@@ -11,3 +11,4 @@ Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsa
 Insan diline daha anlasiqli gelmeyine uygun veya tarixine uygun qruplasdirmaq daha meqsede uygundur
 
 
+docx faylı yarandıqdan sonra yeni txt faylının yaradılması və onun üzərində müvafiq əlavələrin edilməsi.
