@@ -12,3 +12,5 @@ Insan diline daha anlasiqli gelmeyine uygun veya tarixine uygun qruplasdirmaq da
 
 
 docx faylı yarandıqdan sonra yeni txt faylının yaradılması və onun üzərində müvafiq əlavələrin edilməsi.
+
+Github-dan Repositoriy yükləndikdən sonra əlavə edilən dəyişikliklər.
